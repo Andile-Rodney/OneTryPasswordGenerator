@@ -1,9 +1,10 @@
 public class Main {
     public static void main(String[] args) {
 
-        String result = makePassword(16);
+        String result = makePassword(16);// still need to add prompts that makes sense, this one works some how
 
         System.out.println(result);
+        //how about creating a copy functionality where if you click, it auto copies the result so i do not have to move the mouse highlighting
 
     }
 
